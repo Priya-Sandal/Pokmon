@@ -11,7 +11,8 @@
         </div>
         
         <div class="description">
-          <slot name="description" />
+          <slot name="description"/>
+          
         </div>
     </div>
 </template>
